@@ -1,0 +1,22 @@
+ 
+    html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+    h2{
+        text-color:red;
+    }
+    .fa-facebook {
+        color: blue;
+      }
+      
+      .fa-twitter {
+        color: #00acee;
+      }
+      
+      .fa-instagram {
+        color: #c13584;
+      }
+      
+      a {
+        text-decoration: none;
+        margin-right: 10px;
+      }
+      
